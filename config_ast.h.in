@@ -64,6 +64,7 @@
 #mesondefine _ptr_bits
 #mesondefine _pty_clone
 #mesondefine _pty_first
+#mesondefine _real_vfork
 #mesondefine _socketpair_shutdown_mode
 #mesondefine _std_remove
 #mesondefine _std_signal
